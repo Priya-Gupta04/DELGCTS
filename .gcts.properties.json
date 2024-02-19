@@ -1,0 +1,14 @@
+{
+  "name": "priya-gupta04-delgcts",
+  "version": "1.0.0",
+  "description": "Priya-Gupta04-DELGCTS",
+  "repositoryLayout": {
+    "formatVersion": 5,
+    "format": "json",
+    "objectStorage": "plain",
+    "metaInformation": ".gctsmetadata/",
+    "tableContent": "true",
+    "readableSource": "false",
+    "keepClient": "false"
+  }
+}
